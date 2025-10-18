@@ -48,4 +48,6 @@ The Power BI dashboard includes two main sections:
 - Improved skills in **data cleaning, visualization, and storytelling**.  
 - Learned to extract and communicate **actionable insights** from survey data.
 
+##  Dashboard Preview
+![Home Page]([https://github.com/Roaa-saad/Sale-Performance---Excel/blob/main/Screenshot%202025-09-27%20181948.png?raw=true](https://github.com/Roaa-saad/Public-Speaking-Anxiety/blob/main/Screenshot%202025-10-10%20111443.png?raw=true))
 
