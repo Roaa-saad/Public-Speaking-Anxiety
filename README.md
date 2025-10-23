@@ -2,7 +2,6 @@
 
 ## Overview
 This project analyzes survey data on **public speaking anxiety**, exploring how confidence, preparation methods, and audience engagement are related.  
-It was developed as part of the **NTI Creativea Training Program**, supervised by **Instructor Dina Mohsen**.
 
 ---
 
